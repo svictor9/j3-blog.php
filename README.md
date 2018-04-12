@@ -1,4 +1,4 @@
-# Joomla 3 override for blog.php to display subcategory titles
+# Display subcategory titles in category blogs (Joomla 3)  
 On Joomla 3,this simple override adds the subcategory title above the relevant articles in category blogs. The result looks like this:
 
 ````
